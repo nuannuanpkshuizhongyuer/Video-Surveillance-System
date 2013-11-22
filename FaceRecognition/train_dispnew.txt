@@ -1,0 +1,4 @@
+1 s1/1.pgm
+2 s2/1.pgm
+3 s3/1.pgm
+4 s4/1.pgm
