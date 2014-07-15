@@ -1,4 +1,4 @@
-Intelligent Collaborative Surveillance System
+Intelligent Video Surveillance System
 =========================
 Face Detection, Face Recognition and Motion Tracking in Surveillance Video
 
