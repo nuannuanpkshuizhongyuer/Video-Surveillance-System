@@ -1,6 +1,6 @@
 Intelligent Video Surveillance System
 =========================
-Face Detection, Face Recognition and Motion Tracking in Surveillance Video
+Face Detection, Face Recognition and Motion Tracking in Surveillance Video. This project was developed using Visual Studio 2008 and Open CV 2.1. Motion detection was implemented using the Motion History Image (MHI) technique, Face Detection used Haar Cascade Classifiers and Face Recognition was implemented using Principle Component Analysis (PCA) and Eigenfaces technique.
 
 
 In this project a new model of surveillance is proposed where multiple cameras are used which work together in a collaborative manner such that effective streams are fewer needing less human attention and support.  
